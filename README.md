@@ -1,2 +1,3 @@
 # ProjectEuler-Multiples
-Solution Written in Python to Problem 1 on ProjectEuler.net
+Base of solutions written in python to problems on ProjectEuler.net site.
+https://projecteuler.net/about
